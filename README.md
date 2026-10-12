@@ -13,7 +13,7 @@ Neural rendering: a network is trained on screenshots of a game/program along wi
 
 | Screenshots |  |
 |---|---|
-| ![cubika](md/a.png) | ![cubikb](md/b.png) |
+| ![cubika](md/a.jpg) | ![cubikb](md/b.jpg) |
 
 ## Quick start
 
@@ -54,7 +54,7 @@ python3 play.py
 
 | Скриншоты |  | 
 |---|---|
-| ![cubika](md/a.png) | ![cubikb](md/b.png) |
+| ![cubika](md/a.jpg) | ![cubikb](md/b.jpg) |
 
 ## Быстрый старт
 
